@@ -3,12 +3,12 @@ const Main=()=>{
         <div className="bg-black flex justify-between px-[50px]">
             <div>
                 <div className="mt-[100px]">
-                <div className="text-[#959595] mt-[10px]">
+                {/* <div className="text-[#959595] mt-[10px]">
                 Hi I am 
-                </div>
-                <div className="text-[#959595] mt-[10px]">
+                </div> */}
+                {/* <div className="text-[#959595] mt-[10px]">
                 Md Faizan Ahmad
-                </div>
+                </div> */}
                 <div className="text-[#fa6e01] text-3xl mt-[10px]">
                 Software Developer
                 </div>
