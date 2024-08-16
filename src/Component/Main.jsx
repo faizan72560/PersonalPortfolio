@@ -1,7 +1,7 @@
 const Main=()=>{
     return(
         <div className="bg-black flex justify-between px-[50px]">
-            {/* <div>
+            <div>
                 <div className="mt-[100px]">
                 <div className="text-[#959595] mt-[10px]">
                 Hi I am 
@@ -57,7 +57,7 @@ const Main=()=>{
             <div>
 
 
-            </div> */}
+            </div>
 
 
 
